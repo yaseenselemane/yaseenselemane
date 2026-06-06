@@ -14,7 +14,8 @@
 **Yaseen Selemani** — BSc IT Student · Networking & Cybersecurity  
 📍 Soweto, Johannesburg · Richfield Graduate Institute of Technology · Final Year
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaseenselemane)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+](https://www.linkedin.com/in/yaseen-selemane-b9201734a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yaseenselemane)
 
 </div>
