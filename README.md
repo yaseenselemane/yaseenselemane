@@ -73,7 +73,7 @@ STATUS      : Open to Graduate & Internship Opportunities
 | 🖧 **[tier-one-network-ops](https://github.com/yaseenselemane/tier-one-network-ops)** | Browser-based network ops sim — cable the rack, configure routers with Cisco IOS-style commands, work the ticket queue | JavaScript |
 | 🛡️ **VOID//SEC** | Offline ethical hacking study platform for Windows — TryHackMe-style, no internet needed | Electron, JS |
 | 📶 **[campuscheck-showcase](https://github.com/yaseenselemane/campuscheck-showcase)** | Bluetooth-verified attendance — proximity check so attendance can't be marked off campus *(source private)* | React Native, Supabase |
-| 📋 **[workproof](https://github.com/yaseenselemane/workproof)** | Blind-scored work-sample hiring tool — Credify System Thinking Challenge 2026 | TypeScript |
+| 📋 **[workproof-showcase](https://github.com/yaseenselemane/workproof-showcase)** | Blind-scored work-sample hiring tool — 🥈 2nd place, Credify System Thinking Challenge 2026 · [live demo](https://workproof-gray.vercel.app) *(source private)* | React, TypeScript, Supabase |
 | 💰 **CashFlow Coach** | Tracks a small business's cash position and sends a daily financial brief | TypeScript |
 | 🥫 **[SmartPantryManager](https://github.com/yaseenselemane/SmartPantryManager)** | Recipe suggestions from what's already in your pantry, to cut food waste | Java, Android |
 
