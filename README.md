@@ -75,7 +75,22 @@ STATUS      : Open to Graduate & Internship Opportunities
 | 📶 **[campuscheck-showcase](https://github.com/yaseenselemane/campuscheck-showcase)** | Bluetooth-verified attendance — proximity check so attendance can't be marked off campus *(source private)* | React Native, Supabase |
 | 📋 **[workproof-showcase](https://github.com/yaseenselemane/workproof-showcase)** | Blind-scored work-sample hiring tool — 🥈 2nd place, Credify System Thinking Challenge 2026 · [live demo](https://workproof-gray.vercel.app) *(source private)* | React, TypeScript, Supabase |
 | 💰 **CashFlow Coach** | Tracks a small business's cash position and sends a daily financial brief | TypeScript |
+| 📡 **[vantage](https://github.com/yaseenselemane/vantage)** | Home network monitor — live per-device traffic and WiFi signal from the router, real mesh map, auto-starts on login | Node.js, SQLite |
 | 🥫 **[SmartPantryManager](https://github.com/yaseenselemane/SmartPantryManager)** | Recipe suggestions from what's already in your pantry, to cut food waste | Java, Android |
+
+---
+
+## 🧪 Networking Labs
+
+Hands-on notes from my own network: the commands, the real output, and what I learned.
+
+| Lab | What it covers |
+|---|---|
+| 📶 **[ping-and-traceroute](https://github.com/yaseenselemane/ping-and-traceroute)** | Troubleshooting ladder, TTL, traceroute and CGNAT, MTU, jitter and loss (with a script) |
+| 🔎 **[nmap-field-notes](https://github.com/yaseenselemane/nmap-field-notes)** | Beginner's nmap: host discovery, port states, service versions, OS detection, what to fix |
+| 📡 **[wifi-survey](https://github.com/yaseenselemane/wifi-survey)** | My home mesh measured from both ends: dBm, bands, channels, WPA3 (with a scan script) |
+| 🖥️ **[vantage](https://github.com/yaseenselemane/vantage)** | The monitor I built to watch it all live |
+| 🧰 **Cisco Packet Tracer labs** | VLANs, routing, ACLs and NAT — coming next |
 
 ---
 
