@@ -91,6 +91,7 @@ Hands-on notes from my own network: the commands, the real output, and what I le
 | 📡 **[wifi-survey](https://github.com/yaseenselemane/wifi-survey)** | My home mesh measured from both ends: dBm, bands, channels, WPA3 (with a scan script) |
 | 🖥️ **[vantage](https://github.com/yaseenselemane/vantage)** | The monitor I built to watch it all live |
 | 🧰 **[cisco-packet-tracer-labs](https://github.com/yaseenselemane/cisco-packet-tracer-labs)** | Five labs on one office network: VLANs, router-on-a-stick, DHCP + NAT, ACLs, port security (with .pkt files and real output) |
+| 🧮 **[subnet-calculator](https://github.com/yaseenselemane/subnet-calculator)** | IPv4 subnet calculator (CLI + GUI) with tests: host range, wildcard and binary mask, /31 and /32 edge cases |
 
 ---
 
