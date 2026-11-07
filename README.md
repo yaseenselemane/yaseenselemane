@@ -44,7 +44,7 @@ STATUS      : Open to Graduate & Internship Opportunities
 | Credential | Issuer | Earned |
 |---|---|---|
 | **Microsoft Certified: Azure Network Engineer Associate** | Microsoft | Sep 2026 |
-| **Network Security** | Cisco | Jul 2026 |
+| **Network Security** (intermediate, exam passed) | Cisco | Jul 2026 |
 | **Introduction to Cybersecurity** | Cisco | Jan 2026 |
 
 **Microsoft Learn training** — *Mitigate threats using Microsoft Defender XDR* learning path (Jun 2026), plus 8 module badges across Defender XDR, Defender for Cloud Apps, Defender for Identity, Entra Identity Protection and Zero Trust.
@@ -94,13 +94,13 @@ Hands-on notes from my own network: the commands, the real output, and what I le
 
 ---
 
-## 🔭 What I'm Building
+## 🏆 Highlights
 
-| Project | Description | Status |
-|---|---|---|
-| 🧮 **Subnet Calculator** | CLI + GUI tool for IP addressing & subnetting | 🔄 In Progress |
-| 📡 **IP Camera Network Design** | VLAN segmentation simulator based on real WIL experience | 📋 Planned |
-| 🎫 **IT Helpdesk Tracker** | Ticketing system for small business environments | 📋 Planned |
+- 🥈 **2nd place, Credify System Thinking Challenge 2026** (100+ applicants) with [WorkProof](https://github.com/yaseenselemane/workproof-showcase) · [live demo](https://workproof-gray.vercel.app)
+- ☁️ **Azure Network Engineer Associate** (AZ-700) while still a student
+- 🧰 **Five Cisco labs on one office network** (VLANs → routing → DHCP/NAT → ACLs → port security), including a real fault I traced and fixed: [cisco-packet-tracer-labs](https://github.com/yaseenselemane/cisco-packet-tracer-labs)
+- 📡 **Built a live home network monitor** that reads per-device traffic and WiFi signal from a 5G router's own API: [vantage](https://github.com/yaseenselemane/vantage)
+- 🛠️ **Production experience:** IP cameras, Ubiquiti, VLANs and cabling on a live retail network (WIL placement)
 
 ---
 
