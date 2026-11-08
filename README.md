@@ -92,6 +92,7 @@ Hands-on notes from my own network: the commands, the real output, and what I le
 | 🦈 **[wireshark-packet-lab](https://github.com/yaseenselemane/wireshark-packet-lab)** | Real captures from my laptop: ARP, DNS, DHCP renewal, traceroute, the TCP handshake, and what HTTPS hides |
 | 🖥️ **[vantage](https://github.com/yaseenselemane/vantage)** | The monitor I built to watch it all live |
 | 🧰 **[cisco-packet-tracer-labs](https://github.com/yaseenselemane/cisco-packet-tracer-labs)** | Five labs on one office network: VLANs, router-on-a-stick, DHCP + NAT, ACLs, port security (with .pkt files and real output) |
+| 📹 **[cctv-network-lab](https://github.com/yaseenselemane/cctv-network-lab)** | My WIL camera network rebuilt and secured: camera VLAN, ACLs, port security, and three faults I found |
 | 🧮 **[subnet-calculator](https://github.com/yaseenselemane/subnet-calculator)** | IPv4 subnet calculator (CLI + GUI) with tests: host range, wildcard and binary mask, /31 and /32 edge cases |
 
 ---
@@ -102,7 +103,7 @@ Hands-on notes from my own network: the commands, the real output, and what I le
 - ☁️ **Azure Network Engineer Associate** (AZ-700) while still a student
 - 🧰 **Five Cisco labs on one office network** (VLANs → routing → DHCP/NAT → ACLs → port security), including a real fault I traced and fixed: [cisco-packet-tracer-labs](https://github.com/yaseenselemane/cisco-packet-tracer-labs)
 - 📡 **Built a live home network monitor** that reads per-device traffic and WiFi signal from a 5G router's own API: [vantage](https://github.com/yaseenselemane/vantage)
-- 🛠️ **Production experience:** IP cameras, Ubiquiti, VLANs and cabling on a live retail network (WIL placement)
+- 🛠️ **Production experience:** IP cameras, Ubiquiti, VLANs and cabling on a live retail network (WIL placement), rebuilt and secured in [cctv-network-lab](https://github.com/yaseenselemane/cctv-network-lab)
 
 ---
 
