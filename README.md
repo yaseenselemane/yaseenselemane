@@ -16,6 +16,7 @@
 
 **Microsoft Certified: Azure Network Engineer Associate**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-yaseen--selemani.pages.dev-FFB224?style=for-the-badge&logoColor=black&labelColor=0B0E14)](https://yaseen-selemani.pages.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaseen-selemane-b9201734a)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/yaseen-selemane/badges)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/yaseenselemani-0686/)
@@ -34,6 +35,7 @@ INSTITUTION : Richfield Graduate Institute of Technology
 LOCATION    : Soweto, Johannesburg, South Africa
 FOCUS       : Enterprise network design · VLAN segmentation · network security
 CERTIFIED   : Azure Network Engineer Associate · Cisco Network Security
+PORTFOLIO   : https://yaseen-selemani.pages.dev
 STATUS      : Open to Graduate & Internship Opportunities
 ```
 
